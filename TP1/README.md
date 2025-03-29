@@ -80,11 +80,3 @@ python cartpole_human.py
 💡 **Contact** : [menachachraf3@gmail.com]  
 ```
 
-Cette structure conserve :
-1. La mise en page avec emojis et séparateurs
-2. Les sections claires et bien organisées
-3. Le style visuel de votre exemple
-4. Les éléments techniques spécifiques à CartPole
-5. La partie installation/utilisation
-
-Le tout est immédiatement utilisable sur GitHub. Vous pouvez personnaliser les URLs, emails et noms de fichiers selon votre configuration réelle.
